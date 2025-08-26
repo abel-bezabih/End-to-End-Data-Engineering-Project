@@ -5,7 +5,7 @@ Welcome to the End-to-End Data Engineering Project, where data chaos meets order
 **🤔 What’s the Big Deal?**
 The world of data engineering is a jungle, with tools popping up faster than you can say “pipeline.” Transforming scattered, chaotic data into shiny, analytics-ready gems can feel impossible—unless, of course, you’ve got a guide (like this project!) to lead the way.
 
-In this project, you’ll tackle:
+In this project, I tackled:
 
 Data Modeling: Because good structure is everything.
 Testing: Prevent disasters before they happen.
