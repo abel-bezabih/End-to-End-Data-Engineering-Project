@@ -73,10 +73,4 @@ Transform it into insights faster than your boss can say, “Do we have the data
 Someone truly amazing—you! Using this project reflects your passion for data engineering, your dedication to quality, and your undeniable sense of humor. Wear that badge with pride. 🏅
 
 ⚠️ Disclaimer:
-This project will make you dangerously good at data engineering. Use your powers wisely. And if someone tells you they "found your README funny," just remember—they’re probably jealous of your skills.
-
----------Abel Bezabih---------
-
-Check out my profile and lets stay connected on LinkedIn https://www.linkedin.com/in/abel-bezabih/
-
-
+This project will make you dangerously good at data engineering.
