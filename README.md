@@ -1,5 +1,3 @@
-**🚀 End-to-End Data Engineering Project: The Comedy Edition 🎭**
-Welcome to the End-to-End Data Engineering Project, where data chaos meets order in the most entertaining way possible. This is your guide to building robust data pipelines, wrangling messy datasets, and becoming the data engineer your team brags about in meetings. 🧙‍♂️✨
 
 
 **🤔 What’s the Big Deal?**
